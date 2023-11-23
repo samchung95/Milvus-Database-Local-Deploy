@@ -1,0 +1,4 @@
+pymilvus
+FlagEmbedding
+Flask
+python-docx
